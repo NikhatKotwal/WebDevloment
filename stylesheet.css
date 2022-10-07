@@ -1,0 +1,21 @@
+.lol{
+    width: 66%;
+    height: auto;
+    background-color: #EEEE;
+}
+
+.display{
+    flex: auto  ;
+}
+
+.div{
+    height:auto;
+    width:80%;
+}
+#main {
+    width: 1000px;
+    height: 200px;
+    
+    display: flex;
+  }
+ 
